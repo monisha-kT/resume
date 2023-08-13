@@ -1,0 +1,83 @@
+*{
+    padding:0px;
+    margin:0px;
+}
+body{
+    margin-top: 30px;
+    margin-left: 30px;
+    margin-right:30px;
+    margin-bottom: 30px;
+    height:auto;
+    width:1250px;
+    border:5px double black;
+}
+.name > h1{
+    padding:10px; 
+    margin: 30px 30px 0px 30px;
+    text-align: end;
+    line-height: 0px;
+}
+.address{
+    margin: 30px 30px 0px 30px;
+    line-height: 20px;
+    text-align: end;
+   
+}
+a:visited{
+    color:brown;    
+}
+.head{
+    padding:20px; 
+    text-decoration: underline;
+
+    margin-left: 10px;
+}
+.para{
+    padding:15px; 
+     text-indent: 70px;
+    line-height: 25px;
+  
+}
+.clg{
+    line-height:40px;
+    margin-left:30px;
+}
+.per>p{
+    line-height:40px;
+    margin-left:50px;
+   
+   
+}
+.para1{
+    line-height:40px;
+    margin-left:60px;
+    list-style-type: square;
+    
+}
+.clg1{
+    text-decoration: underline;
+    line-height:40px;
+    margin-left:30px;
+}
+.per1{
+    padding:15px;
+    text-indent: 70px;
+}
+.date{
+    line-height: 30px;
+    margin-left:30px;
+    
+}
+.sign{
+    text-align: end;
+    margin-right: 30px;
+
+}
+.per2{
+    padding:15px;
+    text-indent: 250px;
+    line-height: 30px;
+    
+}
+
+
