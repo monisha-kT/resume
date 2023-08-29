@@ -8,7 +8,7 @@ body{
     margin-right:30px;
     margin-bottom: 30px;
     height:auto;
-    width:1250px;
+    width:auto;
     border:5px double black;
 }
 .name > h1{
